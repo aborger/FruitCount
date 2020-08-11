@@ -1,10 +1,10 @@
 # Mask R-CNN for Detecting and Counting Blossoms
 
-This is an implementation of [Mask R-CNN](assets/example_pic.png) on Python 3, Keras, and TensorFlow created by [matterport](https://github.com/matterport/Mask_RCNN).
+This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow created by [matterport](https://github.com/matterport/Mask_RCNN).
 
 This repository is part of a computer vision project at Northwest Nazarene University involving counting blossoms and predicting fruit yields.
 
-![Instance Segmentation Sample](assets/street.png)
+![Instance Segmentation Sample](assets/example_pic.png)
 
 ## Installation
 These instructions assume python has already been setup, for instruction on setting up python click [here](assets/python_setup.txt).
