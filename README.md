@@ -4,9 +4,12 @@ This repository uses an implementation of [Mask R-CNN](https://arxiv.org/abs/170
 It is part of a computer vision project at Northwest Nazarene University involving counting blossoms and predicting fruit yields.
 ![Instance Segmentation Sample](assets/example_pic.png)
 
-## Installation
-These instructions assume python has already been setup, for instruction on setting up python click [here](assets/python_setup.txt).
+## Instructions and help
+Here is a wiki for documentation on this repository and instructions for basic usage of Github, Python, Anaconda, and Tensorflow.
+### [Instruction Wiki](https://github.com/aborger/FruitCount/wiki)
 
+
+## Installation
 1. Clone this repository
    ```bash
    git clone --recurse-submodules https://github.com/aborger/Mask_RCNN.git
