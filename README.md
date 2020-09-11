@@ -12,7 +12,7 @@ Here is a wiki for documentation on this repository and instructions for basic u
 ## Installation
 1. Clone this repository
    ```bash
-   git clone --recurse-submodules https://github.com/aborger/Mask_RCNN.git
+   git clone --recurse-submodules https://github.com/aborger/FruitCount.git
    ```
 2. Install dependencies
    ```bash
