@@ -67,7 +67,7 @@ class blossomConfig(Config):
     
     # Number of training steps per epoch
     # Default = 1000
-    STEPS_PER_EPOCH = 5
+    STEPS_PER_EPOCH = 250
     
     # Minimum probability to be accepted as a detected object
     # Default = 0.7
@@ -76,10 +76,10 @@ class blossomConfig(Config):
     # Number of validation steps run at the end of every training epoch.
     # Bigger number = greater accuracy, but slower training
     # Default = 50
-    VALIDATION_STEPS = 25
+    VALIDATION_STEPS = 50
     
     # Number of required detections per image
-    TRAIN_ROIS_PER_IMAGE = 20
+    TRAIN_ROIS_PER_IMAGE = 50
     
     # Image Sizing
     # Modes include: None, Square, Pad64, crop
