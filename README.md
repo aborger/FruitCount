@@ -18,6 +18,7 @@ Here is a wiki for documentation on this repository and instructions for basic u
    ```bash
    pip3 install -r requirements.txt
    ```
+   Note: Python 3.6.10 is required to run install the required dependencies.
 3. Run setup from the repository root directory
     ```bash
     python3 setup.py install
