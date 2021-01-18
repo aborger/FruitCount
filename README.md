@@ -8,6 +8,8 @@ It is part of a computer vision project at Northwest Nazarene University involvi
 Here is a wiki for documentation on this repository and instructions for basic usage of Github, Python, Anaconda, and Tensorflow.
 ### [Instruction Wiki](https://github.com/aborger/FruitCount/wiki)
 
+## Results and Issues
+Unfortunately I was unable to complete this project as I chose to finish the RockSat-X research project instead. The program works as it should, but the blossom identification accuracy is not as great as it could've been. The labeling process used was incorrect and I was working on fixing that when I had to stop working on this project. The labeling process which produced the result seen included cropping the image down so only a blossom is in view and drawing a polygon around it. This resulted in the neural network not being able to account for the size change when given an image of the full tree. Also only 10 images were used in the training. More images would've needed to be used to produce better results.
 
 ## Installation
 1. Clone this repository
