@@ -1,0 +1,10 @@
+1 epoch with 1000 repititions per epoch
+
+Tested on 8 images (Tree_9_east b-i)
+
+The annotations that were trained on are in the json file
+Only some of the blossoms were labeled in the annotations
+
+There was only one category to be labeled: blossoms
+
+Tree_9_east_a was never seen during training

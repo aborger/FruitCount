@@ -1,0 +1,3 @@
+I believe the two test images (Tree 9 and 6 at 8 feet) didn't have any detections because they are a different size than the rest of the images. I will need to resize all of the images to make them all the same size before training and testing.
+
+Detection was pretty poor compared to Masked RCNN, but the masked_rcnn started with pretrained coco weights.
